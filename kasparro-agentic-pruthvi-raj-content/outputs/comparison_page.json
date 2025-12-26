@@ -24,7 +24,7 @@
     {
       "dimension": "Price",
       "product_a": "699 INR",
-      "product_b": "799 INR",
+      "product_b": "899 INR",
       "verdict": "Product A is cheaper than Product B."
     }
   ]
